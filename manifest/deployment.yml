@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: aasim113322/argo-app:22
+        image: aasim113322/argo-app:23
         ports:
         - containerPort: 8080
